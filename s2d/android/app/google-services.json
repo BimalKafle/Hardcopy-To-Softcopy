@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1028621349683",
+    "project_id": "softtoback",
+    "storage_bucket": "softtoback.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028621349683:android:28e9e0c1d69aff57570446",
+        "android_client_info": {
+          "package_name": "com.example.s2d"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028621349683-dfcju23fotd9o24e4c5cb8q21htqmusn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvvLxh21bO6gZ6NqohjHilXvQZiNeATMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028621349683-dfcju23fotd9o24e4c5cb8q21htqmusn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
